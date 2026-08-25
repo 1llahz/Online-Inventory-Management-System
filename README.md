@@ -52,7 +52,7 @@ Waxaa lagu dhisay **ASP.NET** (Visual Studio) iyo **Microsoft SQL Server** sida 
 ### Installation
 1. Clone-garee repo-ga:
    ```bash
-   git clone https://github.com/<username>/dreams-pos-inventory.git
+   git clone https://github.com/1llahz/Online-Inventory-Management-System.git
    ```
 2. Fur project-ka Visual Studio.
 3. Orod project-ka (`F5` ama Start).
@@ -63,4 +63,4 @@ Project-kan waxaa loo sameeyay ujeeddo waxbarasho iyo tijaabo ah. Isticmaal si x
 
 ---
 
-**Author:** [Aisha Hassan]
+**Author:** Aisha Hassan
