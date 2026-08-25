@@ -1,10 +1,10 @@
-Dreams POS – Online Inventory Management System
+# Dreams POS – Online Inventory Management System
 
-Dreams POS waa nidaam Point of Sale (POS) & Inventory Management oo web-based ah, loogu talagalay in lagu maareeyo alaabta (products), isticmaalayaasha (users), iibinta (sales), iibsashada (purchases), macaamiisha (customers), iyo warbixinnada (reports) ee ganacsi yar ama dukaan.
+Dreams POS waa nidaam **Point of Sale (POS) & Inventory Management** oo web-based ah, loogu talagalay in lagu maareeyo alaabta (products), isticmaalayaasha (users), iibinta (sales), iibsashada (purchases), macaamiisha (customers), iyo warbixinnada (reports) ee ganacsi yar ama dukaan.
 
-Waxaa lagu dhisay ASP.NET (Visual Studio) iyo Microsoft SQL Server sida database-ka, waana nidaam full-stack ah oo leh dashboard casri ah.
+Waxaa lagu dhisay **ASP.NET** (Visual Studio) iyo **Microsoft SQL Server** sida database-ka, waana nidaam full-stack ah oo leh dashboard casri ah.
 
-✨ Features
+## ✨ Features
 
 - 🔐 **Authentication** – Login/Sign Up system oo ammaan ah
 - 📊 **Dashboard** – Muuqaal degdeg ah oo ku saabsan Total Purchase Due, Total Sales Due, Total Sale Amount, Customers, Suppliers, Purchase & Sales Invoices
@@ -14,7 +14,7 @@ Waxaa lagu dhisay ASP.NET (Visual Studio) iyo Microsoft SQL Server sida database
 - 📑 **Reports** – Soo saar warbixinno PDF/Print ah oo ku saabsan alaabta, isticmaalayaasha, iyo dhaqdhaqaaqa ganacsiga
 - 💰 **Finance & Accounts** – La soco lacagaha iyo xisaabaadka
 
- 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework:** ASP.NET (Web Forms)
 - **IDE:** Visual Studio
@@ -22,45 +22,45 @@ Waxaa lagu dhisay ASP.NET (Visual Studio) iyo Microsoft SQL Server sida database
 - **Language:** C#
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap
 
- 📸 Screenshots
+## 📸 Screenshots
 
- Login Page
+### Login Page
 ![Login](./screenshots/login.png)
 
- Dashboard
+### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-Product List
+### Product List
 ![Product List](./screenshots/product-list.png)
 
- User List
+### User List
 ![User List](./screenshots/user-list.png)
 
- User Registration Form
+### User Registration Form
 ![User Registration](./screenshots/user-registration.png)
 
- Purchase Report
+### Purchase Report
 ![Purchase Report](./screenshots/purchase-report.png)
 
-🚀 Getting Started
+## 🚀 Getting Started
 
- Prerequisites
+### Prerequisites
 - Visual Studio (2019 ama ka sareeya)
 - SQL Server (Express ama Full)
 - .NET Framework
 
-
- Installation
+### Installation
 1. Clone-garee repo-ga:
    ```bash
-  gh repo clone 1llahz/Online-Inventory-Management-System   ```
+   git clone https://github.com/<username>/dreams-pos-inventory.git
+   ```
 2. Fur project-ka Visual Studio.
 3. Orod project-ka (`F5` ama Start).
 
- 📄 License
+## 📄 License
 
 Project-kan waxaa loo sameeyay ujeeddo waxbarasho iyo tijaabo ah. Isticmaal si xor ah, laakiin ha ku sheegin credit-ka asalka.
 
 ---
 
-Author: [Aisha Hassan]
+**Author:** [Aisha Hassan]
